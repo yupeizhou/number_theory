@@ -1,4 +1,4 @@
-# Some visualization of number theory & analysis facts
+# Visualize some number theory & analysis facts
 
 Tentative topics:
 1. Equidistribution of sequences
